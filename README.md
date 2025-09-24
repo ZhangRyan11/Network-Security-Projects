@@ -2,7 +2,7 @@
 ## Chapters
 
 ### 1 Cybersecurity Tools
-- [Exploring Ubuntu Home Lab](1%20Cybersecurity%20Tools/Lab%201.md)
+- [Exploring Ubuntu Home Lab]([Lab 2.pdf](https://github.com/user-attachments/files/22519348/Lab.2.pdf))
 
 ### 2 TryHackMe Labs
 - [Assignment 1 lab name](2%20TryHackMe%20Labs/Assignment%201.pdf)
