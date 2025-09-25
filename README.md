@@ -2,5 +2,5 @@ Explore security concepts. Everything here runs in a self-contained environment 
 ## Chapters
 
 ### 1 Cybersecurity Tools
-- [Exploring Ubuntu Home Lab]([Lab 2.pdf]((https://github.com/user-attachments/files/22548913/Lab.2.pdf))
+- [Exploring Ubuntu Home Lab][Lab 2.pdf](https://github.com/user-attachments/files/22548913/Lab.2.pdf)
 
