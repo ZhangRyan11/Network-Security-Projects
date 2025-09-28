@@ -3,4 +3,7 @@ Explore security concepts. Everything here runs in a self-contained environment 
 
 ### 1 Cybersecurity Tools
 - [Exploring Ubuntu Home Lab][Lab 2.pdf](https://github.com/user-attachments/files/22548913/Lab.2.pdf)
+### 2 Firewalls
+- [Exploring Ubuntu Firewalls][Lab 3.pdf](https://github.com/user-attachments/files/22584850/Lab.3.pdf)
+
 
